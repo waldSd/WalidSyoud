@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WalidSyoud
+- 👋 Hi, I’m @waldSd
 - 👀 I’m interested in data science /AI/Machine Learning 
 - 🌱 I’m currently learning python
 
